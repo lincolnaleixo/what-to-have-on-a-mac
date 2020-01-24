@@ -1,3 +1,3 @@
 # Apps
 
-- VirtualBox
+- VirtualBox: virtualization for running windows apps.
